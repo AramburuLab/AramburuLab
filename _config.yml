@@ -10,7 +10,7 @@ title: The Aramburu Lab
 email: patricia.gimeno@umu.se
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AramburuLab.
-baseurl: "/aramburulab"
+baseurl: "/aramburulab/"
 url: "https://PatriciaGimeno.github.io"
 
 include:
