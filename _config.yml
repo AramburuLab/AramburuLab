@@ -11,11 +11,7 @@ email: patricia.gimeno@umu.se
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AramburuLab.
 baseurl: "/AramburuLab"
-<<<<<<< HEAD
 url: "https://AramburuLab.github.io/"
-=======
-url: "https://github.com/AramburuLab"
->>>>>>> master
 
 include:
   - .htaccess
