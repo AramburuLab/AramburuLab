@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Aramburu Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Aramburu Lab at Umeå University &rarr; UMU."
 sitemap: false
 permalink: /
 ---
