@@ -1,6 +1,6 @@
 - name: Iker Valle Aramburu
   photo: Iker.jpg
-  info: Research fellow, started September 2024
+  info: MIMS Group Leader, started September 2024
   email: iker.aramburu@umu.se
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -16,11 +16,4 @@
   number_educ: 1
   education1: MSci Biological Sciences, UCL
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
+
