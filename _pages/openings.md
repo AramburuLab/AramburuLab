@@ -5,16 +5,23 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
-{%comment%}
-<!--
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are currently open for PhD and postdoc applications related to our ERC grant.**
 
 We are  looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+### Applications for PhD
+Open PhD positions:
+  -PhD in Medical Science with orientation towards Molecular Biology, see (https://www.umu.se/en/work-with-us/open-positions/phd-position-in-medical-science-with-orientation-towards-molecular-biology_790429/)
 
+### Applications for Postdoctoral positions
+Open Postdoctoral positions:
+  -ERC funded Postdoctoral position in Bioinformatics, see (https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-bioinformatics_792465/)
+  -ERC funded Postdoctoral position in genetic engineering of immune cells, see (https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-genetic-engineering-of-immune-cells_792513/)
+
+{% comment %}
+<!--
 ### Past open positions
 
 You find the past job openings here:
