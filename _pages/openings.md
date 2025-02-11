@@ -12,14 +12,19 @@ permalink: /vacancies
 We are  looking for new group members with passion, talent, and grit!
 
 ### Applications for PhD
-<div>Open PhD positions:</div>
-  <div>-PhD in Medical Science with orientation towards Molecular Biology, see [phdinumeå](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-medical-science-with-orientation-towards-molecular-biology_790429/)</div>
+<p class="line1">Open PhD positions:</p>
+  <p class="line2">-PhD in Medical Science with orientation towards Molecular Biology, see [phdinumeå](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-medical-science-with-orientation-towards-molecular-biology_790429/)</p>
 
 ### Applications for Postdoctoral positions
-<div>Open Postdoctoral positions:</div>
-  <div>-ERC funded Postdoctoral position in Bioinformatics, see [postdocinumeå.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-bioinformatics_792465/)</div>
-  <div>-ERC funded Postdoctoral position in genetic engineering of immune cells, see [postdocinumeå.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-genetic-engineering-of-immune-cells_792513/)</div>
+<p class="line3">Open Postdoctoral positions:</p>
+  <p class="line4">-ERC funded Postdoctoral position in Bioinformatics, see [postdocinumeå.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-bioinformatics_792465/)</p>
+  <p class="line5">-ERC funded Postdoctoral position in genetic engineering of immune cells, see [postdocinumeå.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-genetic-engineering-of-immune-cells_792513/)</p>
 
+<style>
+   .line1, .line2, .line3, .line4, .line5{
+     margin-bottom:10px;
+}
+</style>
 {% comment %}
 <!--
 ### Past open positions
