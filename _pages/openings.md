@@ -17,8 +17,8 @@ Open PhD positions:
 
 ### Applications for Postdoctoral positions
 Open Postdoctoral positions:
-  -ERC funded Postdoctoral position in Bioinformatics, see (https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-bioinformatics_792465/)
-  -ERC funded Postdoctoral position in genetic engineering of immune cells, see (https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-genetic-engineering-of-immune-cells_792513/)
+  -ERC funded Postdoctoral position in Bioinformatics, see [phdumea.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-bioinformatics_792465/)
+  -ERC funded Postdoctoral position in genetic engineering of immune cells, see [postdocinumea.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-genetic-engineering-of-immune-cells_792513/)
 
 {% comment %}
 <!--
