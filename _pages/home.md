@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches.
+ **Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches. **
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,8 +54,6 @@ permalink: /
 </div> 
 -->
 {% endcomment %}
-
-Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches.
 
 Genome annotation, transcriptomic and proteomic pipelines have traditionally dismissed proteins encoded by short open reading frames (sORF) known as microproteins. This provides a pool of unexplored functional genes. Despite the increasing body of work in identifying the microproteome in different model organisms and cell lines, only a few have been functionally studied showing diverse regulatory roles in multiple cellular pathways.
 
