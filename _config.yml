@@ -13,6 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/AramburuLab"
 url: "https://AramburuLab.github.io"
 
+
 include:
   - .htaccess
   - _pages

@@ -5,7 +5,8 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
-
+{%comment%}
+<!--
 # Open positions
 
 **We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
@@ -39,3 +40,5 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure>
+-->
+{%endcomment%}
