@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-<p class= "bold text">Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches.</p>
+<p class= "bold-text">Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches.
+</p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -62,7 +63,6 @@ Understanding the role of microproteins in innate immune cells upon pathogen act
 </p>
 
 <style>
- /* Bold Text */
    .bold-text {
      font-weight: bold;
    }
