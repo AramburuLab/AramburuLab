@@ -8,6 +8,11 @@ permalink: /
 
 <p class= "bold text"> **Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches. ** </p>
 
+<style>
+   .bold-text{
+     font-weight:bold;
+   }
+</style>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
