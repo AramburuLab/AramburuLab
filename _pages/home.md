@@ -56,6 +56,12 @@ More details to follow. -->
 -->
 {% endcomment %}
 
+Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches.
+
+Genome annotation, transcriptomic and proteomic pipelines have traditionally dismissed proteins encoded by short open reading frames (sORF) known as microproteins. This provides a pool of unexplored functional genes. Despite the increasing body of work in identifying the microproteome in different model organisms and cell lines, only a few have been functionally studied showing diverse regulatory roles in multiple cellular pathways.
+
+Understanding the role of microproteins in innate immune cells upon pathogen activation will broaden our current knowledge of the innate immune response at a fundamental level. Moreover, Identifying novel proteins can lead to the finding of new cellular regulatory mechanisms, to uncover new druggable targets and antimicrobial strategies.
+
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
 
