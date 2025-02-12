@@ -5,9 +5,9 @@ excerpt: "Aramburu Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
-<p class="justified-text" >
 # Research
 
+<p class = "justified-text" > 
 Genome annotation, transcriptomic and proteomic pipelines have traditionally dismissed proteins encoded by short open reading frames (sORF) known as microproteins. 
 
 Microproteins are small proteins (<100 amino acids) encoded by short open reading frames present in coding and non-coding regions.
