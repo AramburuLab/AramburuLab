@@ -22,12 +22,12 @@ This provides a pool of unexplored functional genes. Despite the increasing body
    .justified-text{
      text-align:justify;
    }
-   .content {
+   .image-container {
      width: 70%;
      margin: 0 auto;
    }
 
-   .content img {
+   .image-container img {
      width: 100%;
      height: auto;
      display: block;
