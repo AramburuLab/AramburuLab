@@ -9,7 +9,9 @@ permalink: /
 <p class= "bold-text">Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches.
 </p>
 <!--Picture-->
-<img src="{{ site.url }}{{ site.baseurl }}/images/20250211_labpicture.jpg" />
+<div class="image-container">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/20250211_labpicture.jpg" />
+</div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -66,6 +68,11 @@ permalink: /
    .justified{
      text-align:justify;
    }
+
+   .image-container{
+     text-align:center;
+     margin: 20px 0;
+}
 </style>
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
