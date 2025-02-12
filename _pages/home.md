@@ -70,7 +70,7 @@ permalink: /
    }
 
    .image-container{
-     width: 50%;
+     width: 60%;
      text-align:center;
      margin: 10px auto;
    }
