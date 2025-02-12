@@ -55,10 +55,15 @@ permalink: /
 </div> 
 -->
 {% endcomment %}
+<p class="justified-text">The Aramburu lab is an inclusive and interdisciplinary work environment where we foster career development while focusing on addressing biological questions across scales. The Aramburu lab is member of the Laboratory for Molecular Infection Medicine Sweden (MIMS), the Swedish partner in the Nordic EMBL Partnership for Molecular Medicine. We are always looking for a motivated and curious students and scientist to join our team.</p>
 
 <style>
    .bold-text {
      font-weight: bold;
+   }
+
+   .justified{
+     text-align:justify;
    }
 </style>
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
